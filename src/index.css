@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #171717;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.dropdown-box{
+  height: 48px;
+  left: 15px;
+  right: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  border: 1px solid #979797;
+  border-radius: 0px;
+
+}
+
+.serach-box{
+
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  border: 1px solid #979797;
+  border-radius: 0px;
+  height: 48px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+
+}
+
+.card{
+  border-radius:0rem;
+}
+
+
+.serach-box-font{
+  font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: -0.2px;
+
+/* Black 100% */
+
+color: #171717;
+}
+
+
+
+.star{
+  fill: black;
+}
+
+
+
+.grid_font{
+  /* H4 14px Medium */
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: -0.2px;
+
+color: #000000;
+}
+
+.rating{
+  border: 1px solid;
+  padding: 10px;
+}
+
+.arrowclass{
+    width: 15%;
+    float: right;
+}
+
+
+#checkboxes{
+  padding: 0.5rem 1rem;
+}
+
+.checkboxes{
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  left: 487px;
+  top: 92px;
+  
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+
+.box_class{
+  min-width: 20rem
+}
+
+.check_class {
+  margin-right: .5rem;
+}

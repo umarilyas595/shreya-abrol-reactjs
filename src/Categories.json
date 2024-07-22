@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Any genre",
+    "value": "Any genre"
+  },
+  {
+    "label": "Comedy",
+    "value": "Comedy"
+  },
+  {
+    "label": "Thriller",
+    "value": "Thriller"
+  },
+  {
+    "label": "Action",
+    "value": "Action"
+  },
+  {
+    "label": "Drama",
+    "value": "Drama"
+  }
+]
